@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/workspaces/Swisslong2.2/contracts/Token.sol": {
-      "lastModificationDate": 1725474630484,
-      "contentHash": "2ae251f8cabf7d40f1ffc30960f82ba8",
+      "lastModificationDate": 1725480556287,
+      "contentHash": "6486dcaa4aa06e546f7c6868b5063c03",
       "sourceName": "contracts/Token.sol",
       "solcConfig": {
         "version": "0.8.20",
